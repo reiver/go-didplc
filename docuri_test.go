@@ -1,7 +1,7 @@
 package didplc_test
 
 import (
-	"github.com/reiver/go-atproto/internal/didplc"
+	"github.com/reiver/go-didplc"
 
 	"testing"
 )
